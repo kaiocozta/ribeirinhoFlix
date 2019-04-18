@@ -5,6 +5,7 @@
                v-bind:titulo="categoria.nome"
                v-bind:filmes="categoria.filmes">
     </Categoria>
+
   </div>
 </template>
 
