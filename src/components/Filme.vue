@@ -4,7 +4,7 @@
 
     <div class="gui-card__media">
 
-      <img v-if="!exibir" class="gui-card__img" v-bind:src="imagem" alt="nomeFilme"/>
+      <img v-if="!exibir" class="gui-card__img" v-bind:src="imagem"/>
 
       <iframe class="gui-card__img" v-if="exibir" v-on:mouseout="exibir=!exibir" :src="url" allowfullscreen></iframe>
 
