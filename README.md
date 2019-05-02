@@ -1,6 +1,6 @@
 # netflix
 
-> projeto da ribeirinho flix
+> Projeto da ribeirinho flix
 
 ## Build Setup
 
